@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AstroCodeDevs">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Desenvolvimento%20WEB" alt="Desenvolvimento WEB" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0000FF&fontSize=54&height=90&width=698&text=Desenvolvimento%20WEB" alt="Desenvolvimento WEB" />
   </a>
 </p>
 
