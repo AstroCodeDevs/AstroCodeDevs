@@ -9,11 +9,19 @@
 </p>
 
 ### 🚀 SOBRE NÓS
+Empresa de produção e desenvolvimento de sites, automações, chatbots e serviços de otimização, somos uma equipe sempre à disposição!
 
-Empresa de produção e desenvolvimento de sites,automações,chatbots e serviços de otimização, somos uma equipe sempre a disposição!
+### 👥 NOSSA EQUIPE
 
-### 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/Akemastico"><img src="https://img.shields.io/badge/Akemastico-181717?style=for-the-badge&logo=github&logoColor=white" alt="Akemastico" /></a>
+  <a href="https://github.com/DEF4LT23"><img src="https://img.shields.io/badge/DEF4LT23-181717?style=for-the-badge&logo=github&logoColor=white" alt="DEF4LT23" /></a>
+  <a href="https://github.com/Batata200Ofc"><img src="https://img.shields.io/badge/Batata200Ofc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Batata200Ofc" /></a>
+  <a href="https://github.com/LukeTechh"><img src="https://img.shields.io/badge/LukeTechh-181717?style=for-the-badge&logo=github&logoColor=white" alt="LukeTechh" /></a>
+  <a href="https://github.com/Potato200Ofc"><img src="https://img.shields.io/badge/Potato200Ofc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Potato200Ofc" /></a>
+</p>
 
+### 🔗 Entre Em Contato
 <p align="left">
   <a href="https://instagram.com/astrocodedevs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:astrocodedevs@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
