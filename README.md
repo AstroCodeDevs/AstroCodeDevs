@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  <a href="README.md"><strong>🇧🇷 Português</strong></a> |
+  <a href="README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=700&height=44&lines=A%20%C3%8Ddeia%20%C3%89%20Sua%2C%20Mas%20N%C3%B3s%20Tiramos%20Ela%20Do%20Papel!" alt="A Ideia É Sua, Mas Nós Tiramos Ela Do Papel!" />
 </p>
 
@@ -15,7 +20,7 @@
 </p>
 
 <p align="center">
-  Desenvolvimento web • Automação • Chatbots • Sistemas personalizados
+  Desenvolvimento Web • Automação • Chatbots • Sistemas Personalizados
 </p>
 
 ---
@@ -38,7 +43,7 @@ Queremos construir produtos que **funcionem bem, sejam consistentes em produçã
 
 ### 🌐 Desenvolvimento Web
 
-Criamos aplicações e sites personalizados de acordo com a necessidade de cada projeto.
+Criamos aplicações e sites personalizados de acordo com as necessidades de cada projeto.
 
 * Landing pages
 * Sites institucionais
@@ -48,8 +53,6 @@ Criamos aplicações e sites personalizados de acordo com a necessidade de cada 
 * Aplicações personalizadas
 * APIs e backends
 * Integrações entre serviços
-
----
 
 ### ⚙️ Automação
 
@@ -63,19 +66,15 @@ Eliminamos tarefas repetitivas e conectamos ferramentas para tornar processos ma
 * Processamento automatizado de informações
 * Integrações entre diferentes sistemas
 
----
-
 ### 🤖 Chatbots
 
-Desenvolvemos soluções de atendimento automatizado, especialmente para negócios que precisam melhorar sua comunicação com clientes.
+Desenvolvemos soluções de atendimento automatizado para negócios que precisam melhorar sua comunicação com clientes.
 
 * Chatbots para WhatsApp
 * Automação de atendimento
 * Respostas automatizadas
 * Integração com sistemas existentes
 * Fluxos personalizados de atendimento
-
----
 
 ### 🚀 Otimização e evolução
 
@@ -174,8 +173,6 @@ A AstroCodeDevs é formada por desenvolvedores com diferentes especialidades, pe
   <a href="https://github.com/Potato200Ofc"><img src="https://img.shields.io/badge/Potato200Ofc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Potato200Ofc" /></a>
 </p>
 
-### 🧑‍💻 Especialidades
-
 | Integrante             | Áreas                                           |
 | ---------------------- | ----------------------------------------------- |
 | **Akemastico / Nadil** | Python, C++, Gestão de Negócios                 |
@@ -188,8 +185,6 @@ A AstroCodeDevs é formada por desenvolvedores com diferentes especialidades, pe
 ## 💻 Tecnologias
 
 Nossa stack varia de acordo com as necessidades de cada projeto.
-
-Entre as tecnologias utilizadas pela equipe estão:
 
 <p align="center">
 
@@ -208,7 +203,7 @@ Entre as tecnologias utilizadas pela equipe estão:
 
 Estamos construindo nosso portfólio com projetos próprios, experimentais e comerciais.
 
-> Em breve, esta seção apresentará alguns dos projetos desenvolvidos pela AstroCodeDevs.
+Em breve, esta seção apresentará alguns dos projetos desenvolvidos pela AstroCodeDevs.
 
 ---
 
